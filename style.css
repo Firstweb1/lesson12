@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(25, 25, 42);
+}
+h1{
+    text-align: center;
+    color: white;
+}
+#s{
+    text-align: center;
+}
+#q{
+    border: 2px solid black ;
+    text-align: center;
+    width: 500px;
+}
+.b{
+    border: 2px solid black;
+    margin-right: 1600px;
+    margin-bottom: 20px;
+    text-align: center;
+    background-color: black;
+    border-radius: 10px;
+}
+h2{
+    color: yellow;
+}
+p{
+    color: white;
+}
+th{
+    background-color: yellow;
+}
+th,td {
+    border: 2px solid white;
+    font-size: large;
+    border-collapse: collapse;
+    color: white;
+    text-align: center;
+}
+img{
+    width: 200px;
+    border-radius: 20px;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+.bosh{
+    border: 2px solid black;
+}
+.m{
+    text-align: center;
+}
+
